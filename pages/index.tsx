@@ -29,7 +29,7 @@ const Home: NextPage = () => {
       ))}
     </div>
   ) : (
-    <div className={styles.container}>Hello World! asdfsa</div>
+    <div className={styles.container}>Hello World! as</div>
   );
 };
 
